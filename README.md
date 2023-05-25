@@ -44,19 +44,19 @@ The Event Management System has the following system requirements:
 
 ## Documentation
 
-For more information on how to use and install the Event Management System, please refer to the User Manual inside the zip file  . Additionally, detailed technical documentation and API references are available in the [Developer Documentation](link-to-developer-docs).
+For more information on how to use and install the Event Management System, please refer to the User Manual inside the zip file  . Additionally, detailed technical documentation and API references are available in the [Developer Documentation]([link-to-developer-docs](https://docs.github.com/en/rest?apiVersion=2022-11-28)).
 
 ## Support
 
-If you encounter any issues or have questions about the Event Management System, please reach out to our support team at [support@example.com](mailto:support@example.com) or visit our [Support Portal](link-to-support-portal).
+If you encounter any issues or have questions about the Event Management System, please reach out to our support team at [vishnusanthoshvr@gmail.com](vishnusanthoshvr@gmail.com) or visit our [Support Portal]([link-to-support-portal](https://support.github.com/)).
 
 ## License
 
-The Event Management System is released under the [MIT License](link-to-license). Please review the license file for more information.
+The Event Management System is released under the [GIT License]([link-to-license](https://docs.github.com/en/rest/licenses?apiVersion=2022-11-28)). Please review the license file for more information.
 
 ## Contributing
 
-We welcome contributions from the open-source community. If you'd like to contribute to the Event Management System, please refer to our [Contribution Guidelines](link-to-contribution-guidelines) for detailed instructions.
+We welcome contributions from the open-source community. If you'd like to contribute to the Event Management System, please refer to our [Contribution Guidelines]([link-to-contribution-guidelines](https://github.blog/2013-01-07-introducing-contributions/)) for detailed instructions.
 
 ## Credits
 
