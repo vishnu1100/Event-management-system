@@ -42,7 +42,7 @@ The Event Management System has the following system requirements:
 
 ## Documentation
 
-For more information on how to use the Event Management System, please refer to the [User Manual](link-to-user-manual). Additionally, detailed technical documentation and API references are available in the [Developer Documentation](link-to-developer-docs).
+For more information on how to use and install the Event Management System, please refer to the User Manual inside the zip file  . Additionally, detailed technical documentation and API references are available in the [Developer Documentation](link-to-developer-docs).
 
 ## Support
 
