@@ -39,6 +39,8 @@ The Event Management System has the following system requirements:
 - Supported web browsers (Chrome, Firefox, Safari, Edge)
 
 
+## Installation Process
+- Inside the zip file 
 
 ## Documentation
 
