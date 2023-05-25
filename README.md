@@ -60,4 +60,4 @@ We welcome contributions from the open-source community. If you'd like to contri
 
 ## Credits
 
-The Event Management System was modified by [DEV.VISHNU](https://github.com/vishnu1100)
+The Event Management System was modified by [.VISHNU.MODS](https://github.com/vishnu1100)
