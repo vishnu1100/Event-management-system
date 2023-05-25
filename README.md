@@ -48,15 +48,15 @@ For more information on how to use and install the Event Management System, plea
 
 ## Support
 
-If you encounter any issues or have questions about the Event Management System, please reach out to our support team at [vishnusanthoshvr@gmail.com](vishnusanthoshvr@gmail.com) or visit our [Support Portal]([link-to-support-portal](https://support.github.com/)).
+If you encounter any issues or have questions about the Event Management System, please reach out to our support team at our [Support Portal](https://support.github.com/).
 
 ## License
 
-The Event Management System is released under the [GIT License]([link-to-license](https://docs.github.com/en/rest/licenses?apiVersion=2022-11-28)). Please review the license file for more information.
+The Event Management System is released under the [GIT License](https://docs.github.com/en/rest/licenses?apiVersion=2022-11-28). Please review the license file for more information.
 
 ## Contributing
 
-We welcome contributions from the open-source community. If you'd like to contribute to the Event Management System, please refer to our [Contribution Guidelines]([link-to-contribution-guidelines](https://github.blog/2013-01-07-introducing-contributions/)) for detailed instructions.
+We welcome contributions from the open-source community. If you'd like to contribute to the Event Management System, please refer to our [Contribution Guidelines](https://github.blog/2013-01-07-introducing-contributions/) for detailed instructions.
 
 ## Credits
 
